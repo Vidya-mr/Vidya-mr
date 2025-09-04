@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi 👋,I’m Vidyashree M R
+
+💫 About Me:
 I’m currently working on<br><br>Automating data analysis workflows using Python and visualizing results with Power BI.<br><br>🕺 I’m looking to collaborate on<br><br>Real-world data projects where I can apply SQL and Power BI to generate insights.<br><br>🤝 I’m looking for help with<br><br>Structuring complex SQL queries and optimizing database performance.<br><br>🌱 I’m currently learning<br><br>Advanced SQL joins, Python for data automation, and Power BI DAX formulas.<br><br>💬 Ask me about<br><br>Data cleaning with Python, basic to advanced SQL queries, and how to get started with Power BI.<br><br>⚡ Fun fact<br><br>I love turning messy spreadsheets into beautiful dashboards—it's like magic but with data! ✨
 
 
